@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Python1104\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{289EEBB0-9A91-4F2D-B099-2ECB719E4F69}|Python1104\\Python1104.pyproj|C:\\Users\\ASUS\\source\\repos\\Python1104\\Python1104\\Python1104.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{289EEBB0-9A91-4F2D-B099-2ECB719E4F69}|Python1104\\Python1104.pyproj|solutionrelative:Python1104\\Python1104.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Python1104.py",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Python1104\\Python1104\\Python1104.py",
+              "RelativeDocumentMoniker": "Python1104\\Python1104.py",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Python1104\\Python1104\\Python1104.py",
+              "RelativeToolTip": "Python1104\\Python1104.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-04T00:39:25.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
