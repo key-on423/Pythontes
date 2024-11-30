@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Python1125\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14F76C12-D9F0-49B6-8DF9-272D51DF47E7}|Python1125\\Python1125.pyproj|C:\\Users\\ASUS\\source\\repos\\Python1125\\Python1125\\Python1125.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{14F76C12-D9F0-49B6-8DF9-272D51DF47E7}|Python1125\\Python1125.pyproj|solutionrelative:Python1125\\Python1125.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Python1125.py",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Python1125\\Python1125\\Python1125.py",
+              "RelativeDocumentMoniker": "Python1125\\Python1125.py",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Python1125\\Python1125\\Python1125.py",
+              "RelativeToolTip": "Python1125\\Python1125.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-25T12:15:36.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
