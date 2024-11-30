@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Python1009\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC6B045-A9CF-4FF3-AB7D-FEAD51CEBAD0}|Python1009\\Python1009.pyproj|C:\\Users\\ASUS\\source\\repos\\Python1009\\Python1009\\Python1009.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CDC6B045-A9CF-4FF3-AB7D-FEAD51CEBAD0}|Python1009\\Python1009.pyproj|solutionrelative:Python1009\\Python1009.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Python1009.py",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Python1009\\Python1009\\Python1009.py",
+              "RelativeDocumentMoniker": "Python1009\\Python1009.py",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Python1009\\Python1009\\Python1009.py",
+              "RelativeToolTip": "Python1009\\Python1009.py",
+              "ViewState": "AgIAADEAAAAAAAAAAAAuwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-09T12:25:14.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
